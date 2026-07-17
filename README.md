@@ -61,51 +61,12 @@ Apasionada por el desarrollo de software, el aprendizaje continuo y la creación
 ---
 
 # 🚀 Actualmente
-¿
 - 📱 Aprendiendo y desarrollando aplicaciones Android con Kotlin.
 - 🌱 Construyendo proyectos para fortalecer mi portafolio profesional.
 
 ---
 
 
-
-# 📊 Estadísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Racha de Contribuciones
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight"/>
-
-</div>
-
----
-
-# 📫 Contacto
-
-<p align="center">
-
-<a href="mailto:TU_CORREO">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/TU_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
 
 <div align="center">
 
